@@ -1,8 +1,7 @@
 # Gestionnaire d'utilisateur React
 Ceci est une application web qui permet de gérer une liste d'utilisateurs. Elle est construite à l'aide de Vite.js et de React.
 
-# Temps de réalisation
-Total 2h00
+# Temps de réalisation 2h00
 
 ## Fonctionnalités
 
